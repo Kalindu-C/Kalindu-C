@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalindu-c&label=Profile%20views&color=0e75b6&style=flat" alt="kalindu-c" /> </p>
 
-- 👯 I’m Undergraduate Student at **University of Moratuwa**
+<!-- - 👯 I’m Undergraduate Student at **University of Moratuwa** -->
 
 - 💬 Ask me about **Data Science | ML | MLOps**
 
