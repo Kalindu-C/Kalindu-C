@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Kalindu-Chathuranga
-- 👀 I’m interested in Backend and DevOps
-- 🌱 I’m currently learning Backend libraries and technologies
+- 👋 Hi, I’m Kalindu-Chathuranga
+- 👀 I’m interested in Data Science and Machine Learning
 
 <!---
 Kalindu-C/Kalindu-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
